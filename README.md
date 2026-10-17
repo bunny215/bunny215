@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bunny215
 - 👀 I’m interested in good food and anime
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning .net
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
